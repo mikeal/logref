@@ -1,5 +1,7 @@
 # Logging
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/logref.svg)](https://greenkeeper.io/)
+
 This is a considerable departure from the traditional logger.
 
 This logger is meant for use in third party modules and packages. It's so that modules can have a very simple way to offer optional visibility in to the modules inner workings.
